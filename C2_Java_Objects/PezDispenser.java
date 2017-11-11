@@ -9,7 +9,11 @@ class PezDispenser {
   }
 
   public void fill() {
-  	pezCount = MAX_PEZ;
+  	fill(MAX_PEZ);
+  }
+
+  public void fill(int pezAmount) {
+  	pezCount += pezAmount;
   }
 
   public boolean dispense() {
