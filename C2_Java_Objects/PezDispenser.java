@@ -12,6 +12,15 @@ class PezDispenser {
   	pezCount = MAX_PEZ;
   }
 
+  public boolean dispense() {
+  	boolean wasDispensed = false;
+  	if (!isEmpty()) {
+  		pezCount--;
+  		wasDispensed = true;  		
+  	}
+  	return wasDispensed;
+  }
+
   public boolean isEmpty() {
   	return pezCount == 0;
   }
