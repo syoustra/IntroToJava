@@ -1,2 +1,2 @@
 # IntroToJava
-Working through Treehouse's "Learn Java" Track
+Working through Treehouse's (https://teamtreehouse.com/tracks/learn-java "Learn Java") Track
