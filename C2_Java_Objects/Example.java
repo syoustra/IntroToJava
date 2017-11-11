@@ -31,10 +31,14 @@ public class Example {
     while (dispenser.dispense()) {
     	System.out.println("Chomp!!");
     }
-    if (dispenser.isEmpty()) {
-    	System.out.println("Ate all the PEZ");    	
+    try {
+    	dispenser.fill(400);
+		System.out.println("This will never happen.");
+    } catch (IllegalArgumentException iae) {
+    	System.out.println("Whoa, there!");
+    	System.out.printf("The error was %s",
+    		iae.getMessage());
     }
-
 
   }
 
