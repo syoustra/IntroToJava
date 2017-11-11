@@ -9,7 +9,8 @@ public class Example {
     System.out.printf("The dispenser is %s %n",
                       dispenser.getCharacterName()
                      );
-    
+    System.out.println("Filling the dispenser with delicious PEZ...");
+    dispenser.fill();
   }
 
 }
