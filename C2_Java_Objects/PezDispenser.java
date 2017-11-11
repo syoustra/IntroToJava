@@ -11,6 +11,10 @@ class PezDispenser {
   public void fill() {
   	pezCount = MAX_PEZ;
   }
+
+  public boolean isEmpty() {
+  	return pezCount == 0;
+  }
   
   public String getCharacterName() {
     return characterName;
