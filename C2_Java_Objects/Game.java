@@ -18,4 +18,16 @@ class Game {
 		}
 		return isHit;
 	}
+
+	public String getCurrentProgress() {
+		String progress = "";
+		for (char letter : answer.toCharArray()) {
+			char display = '-';
+			if (hits.indexOf(letter) !=-1) {
+				display = letter;
+			}
+			progress += display;
+		}
+		return progress;
+	}
 }
