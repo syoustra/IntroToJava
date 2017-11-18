@@ -32,4 +32,17 @@ class Prompter {
 			game.getRemainingTries(),
 			game.getCurrentProgress());
 	}
+
+
+// MY ATTEMPT .... only difference is the message in the output, and that he did If Winner Else Lose; I did If Loser Else Win
+	public void displayOutcome() {
+		if (game.getRemainingTries() == 0) {
+			System.out.printf("Sorry, you have used all your tries, and still couldn't guess %s. *insert sad trombone here* %n",
+				game.getAnswer());
+		} else {
+			System.out.printf("Congratulations! You guessed the word %s with %d tries remaining. And there was much rejoicing! %n",
+				game.getAnswer(),
+				game.getRemainingTries());
+		}
+	}
 }
