@@ -11,6 +11,14 @@ class Game {
 	}
 
 	public boolean applyGuess(char letter) {
+		// MY ATTEMPT
+		// boolean isGuessed = hits.indexOf(letter) != -1 || hits.indexOf(letter) != -1;
+		// if (isGuessed) {
+		// 	return "You already guessed that!";
+		// }
+		if (misses.indexOf(letter) != -1 || hits.indexOf(letter) != -1) {
+			throw new IllegalArgumentException(letter + " has already been guessed.");
+		}
 		boolean isHit = answer.indexOf(letter) != -1;
 		if (isHit) {
 			hits += letter;
