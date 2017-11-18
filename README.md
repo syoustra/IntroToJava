@@ -6,7 +6,7 @@
 
 - [x] [Java Basics](https://teamtreehouse.com/library/java-basics)
 
-- [ ] [Java Objects](https://teamtreehouse.com/library/java-objects-2)
+- [x] [Java Objects](https://teamtreehouse.com/library/java-objects-2)
 
 - [ ] [Java Arrays](https://teamtreehouse.com/library/java-arrays)
 
