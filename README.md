@@ -1,4 +1,4 @@
-# TESTING README FORMATTING FOR THE IntroToJava REPO
+# IntroToJava
 ## Working through Treehouse's [Learn Java](https://teamtreehouse.com/tracks/learn-java) Track
 #### Follow My Progress [here](https://teamtreehouse.com/stephanieyoustra)
 
