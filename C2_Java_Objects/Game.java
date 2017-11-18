@@ -15,15 +15,17 @@ class Game {
 			throw new IllegalArgumentException("A letter is required");
 		}
 		letter = Character.toLowerCase(letter);
-		// MY ATTEMPT
-		// boolean isGuessed = hits.indexOf(letter) != -1 || hits.indexOf(letter) != -1;
-		// if (isGuessed) {
-		// 	return "You already guessed that!";
-		// }
 		if (misses.indexOf(letter) != -1 || hits.indexOf(letter) != -1) {
 			throw new IllegalArgumentException(letter + " has already been guessed.");
 		}
 		return letter;
+	}
+
+	public boolean applyGuess(String letters) {
+		if (letters.length() == 0) {
+			throw new IllegalArgumentException("No letter found");
+		}
+		return applyGuess(letters.charAt(0));
 	}
 
 	public boolean applyGuess(char letter) {
