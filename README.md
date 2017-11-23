@@ -17,7 +17,7 @@
 > **♦ ~Delivering the MVP~** _⸽⸽ Exceptions, validating/normalizing user input, method overloading, determining winner, arrays, command line arguments ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■  
 
 - [ ] [Java Arrays](https://teamtreehouse.com/library/java-arrays)
-> **◊ Creation** _⸽⸽ Introduction to arrays, declaration, accessing items, array literal shortcut ⸽⸽_ □ □ □ □ □ □ □  
+> **♦ ~Creation~** _⸽⸽ Introduction to arrays, declaration, accessing items, array literal shortcut ⸽⸽_ ■ ■ ■ ■ ■ ■ ■  
 > **◊ Iteration** _⸽⸽ Enhanced For loop, looping, multidimensional arrays, looping over 2d arrays ⸽⸽_ □ □ □ □ □ □ □ □  
 > **◊ Gotchas and Wins** _⸽⸽ Adding/removing == copying, sorting, arrays in method declarations ⸽⸽_ □ □ □ □ □ □ □  
 
