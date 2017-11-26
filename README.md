@@ -22,8 +22,8 @@
 > **♦ ~Gotchas and Wins~** _⸽⸽ Adding/removing == copying, sorting, arrays in method declarations/varargs ⸽⸽_ ■ ■ ■ ■ ■ ■ ■  
 
 
-- [ ] [The Thing About Strings](https://teamtreehouse.com/library/the-thing-about-strings)
-> **◊ Video Workshop** _⸽⸽ Common misconceptions about strings ⸽⸽_ □  
+- [x] [The Thing About Strings](https://teamtreehouse.com/library/the-thing-about-strings)
+> **♦ Video Workshop** _⸽⸽ Common misconceptions about strings ⸽⸽_ ■  
 
 - [ ] [Java Data Structures](https://teamtreehouse.com/library/java-data-structures)
 > **◊ Getting There** _⸽⸽ Developing a plan, packages, review classes, object inheritance, type casting ⸽⸽_ □ □ □ □ □ □ □ □ □ □  
