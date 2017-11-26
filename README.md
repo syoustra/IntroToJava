@@ -23,7 +23,7 @@
 
 
 - [x] [The Thing About Strings](https://teamtreehouse.com/library/the-thing-about-strings)
-> **♦ Video Workshop** _⸽⸽ Common misconceptions about strings ⸽⸽_ ■  
+> **♦ ~Video Workshop~** _⸽⸽ Common misconceptions about strings ⸽⸽_ ■  
 
 - [ ] [Java Data Structures](https://teamtreehouse.com/library/java-data-structures)
 > **◊ Getting There** _⸽⸽ Developing a plan, packages, review classes, object inheritance, type casting ⸽⸽_ □ □ □ □ □ □ □ □ □ □  
