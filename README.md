@@ -19,7 +19,7 @@
 - [x] [Java Arrays](https://teamtreehouse.com/library/java-arrays)
 > **♦ ~Creation~** _⸽⸽ Introduction to arrays, declaration, accessing items, array literal shortcut ⸽⸽_ ■ ■ ■ ■ ■ ■ ■  
 > **♦ ~Iteration~** _⸽⸽ Enhanced For loop, [unenhanced] for loop, multidimensional arrays, looping over 2d arrays ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■  
-> **♦ ~Gotchas and Wins~** _⸽⸽ Adding/removing == copying, sorting, arrays in method declarations/var args ⸽⸽_ ■ ■ ■ ■ ■ ■ ■  
+> **♦ ~Gotchas and Wins~** _⸽⸽ Adding/removing == copying, sorting, arrays in method declarations/varargs ⸽⸽_ ■ ■ ■ ■ ■ ■ ■  
 
 
 - [ ] [The Thing About Strings](https://teamtreehouse.com/library/the-thing-about-strings)
