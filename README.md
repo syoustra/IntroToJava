@@ -26,7 +26,7 @@
 > **♦ ~Video Workshop~** _⸽⸽ Common misconceptions about strings, especially with regards to equality ⸽⸽_ ■  
 
 - [ ] [Java Data Structures](https://teamtreehouse.com/library/java-data-structures)
-> **◊ Getting There** _⸽⸽ Developing a plan, packages, review classes, object inheritance, type casting ⸽⸽_ □ □ □ □ □ □ □ □ □ □  
+> **♦ ~Getting There~** _⸽⸽ Developing a plan, packages, member variables, object inheritance and overrides, type casting and instanceof ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■  
 > **◊ Organizing Data** _⸽⸽ Splitting strings, arrays, interfaces, sterilization ⸽⸽_ □ □ □ □ □ □ □ □  
 > **◊ Exploring the Java Collections Framework** _⸽⸽ Meet the JCF, lists, ArrayLists, sets, maps ⸽⸽_ □ □ □ □ □ □ □ □ □  
 > **◊ Efficiency** _⸽⸽ Map out MVP, build model, design UI, menu UI, chooser UI, queueing, custom serialization ⸽⸽_ □ □ □ □ □ □ □ □ □ □ □ □ □  
